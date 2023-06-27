@@ -10,3 +10,5 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact:Rubber Duck Debugging.
 
+#### Languages and Tools:
+android azure babel c cplusplus css3 django firebase git html5 java javascript kotlin laravel linux mongodb mssql mysql nodejs photoshop php postgresql postman python react reactnative sass typescript vuejs
